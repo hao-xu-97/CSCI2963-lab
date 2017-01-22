@@ -27,4 +27,22 @@ accountable for how the software is used by end users.
 ![regex screenshot5](https://snag.gy/miYIQj.jpg)
 ![regex screenshot6](https://snag.gy/kpdiEW.jpg)
 ![regex screenshot7](https://snag.gy/quvnYF.jpg)
+####Puzzles
+![regex puzzle1](https://snag.gy/U7f1Mq.jpg)
+![regex puzzle2](https://snag.gy/AI4UjO.jpg)
+![regex puzzle3](https://snag.gy/hWovjV.jpg)
+![regex puzzle4](https://snag.gy/LYWMhZ.jpg)
 
+###Blocky
+![blocky](https://snag.gy/cBs92X.jpg)
+
+###Reflection
+I am interested in creating a puzzle game. The mechanics of the game
+will probably be based on math, physics, logic, or a combination of those.
+I've always been a fan of puzzle games although never have created one myself.
+A lot of the puzzle games out there could be very obvious or insanely complex.
+So it would be a challenge to create a game that would have just the right
+difficulty that the player will find satisfying to solve but not frustrating
+in the process. Depending of the amount of potential calculations and graphical
+features, I might use a game engine for development as it is optimized for
+creating extensive games. 
