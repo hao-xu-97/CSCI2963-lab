@@ -16,5 +16,15 @@ of incentive for programmers to who do go for the community. At the very least
 protection should be offered. The creater of a software shouldnt be held
 accountable for how the software is used by end users.
 
+###Linux
+![linux screenshot](https://snag.gy/vL64iP.jpg)
 
-![screenshot1](https://snag.gy/7vRUTF.jpg)
+###Regex
+![regex screenshot1](https://snag.gy/bzgyMV.jpg)
+![regex screenshot2](https://snag.gy/VDpOiS.jpg)
+![regex screenshot3](https://snag.gy/r4EGyl.jpg)
+![regex screenshot4](https://snag.gy/WVN4F6.jpg)
+![regex screenshot5](https://snag.gy/miYIQj.jpg)
+![regex screenshot6](https://snag.gy/kpdiEW.jpg)
+![regex screenshot7](https://snag.gy/quvnYF.jpg)
+
