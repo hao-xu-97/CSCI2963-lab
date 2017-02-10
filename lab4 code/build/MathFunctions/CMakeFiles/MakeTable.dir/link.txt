@@ -1,0 +1,1 @@
+/usr/bin/c++.exe    -Wl,--enable-auto-import CMakeFiles/MakeTable.dir/MakeTable.cxx.o  -o MakeTable.exe -Wl,--out-implib,libMakeTable.dll.a -Wl,--major-image-version,0,--minor-image-version,0  

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/users/hao/git/CSCI2963-lab/MathFunctions/MakeTable.cxx
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+
