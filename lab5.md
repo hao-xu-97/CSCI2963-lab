@@ -5,7 +5,7 @@
 ###Community
 ####Pokedex
 * contributors- 3
-* lines- 806880
+* lines- 806169
 * first commit- 1/13/15
 * last commit- 2/22/15
 * current branches- 1
@@ -43,6 +43,11 @@
 ![gitstat eve](https://snag.gy/WujdoZ.jpg)
 The number of lines of code shown here is different from before
 and there is also a discrepancy with the number of authors
+The Pokedex project shown 806169 lines of code before but
+only 495621 lines of code here. The EveOnlineMarketAnalysis
+project had 62688 lines of code before but 302425 here and here it
+shows 10 authors instead of 7. The other informations are
+more consistent.
 
 https://youtu.be/O-CAW-NZNcI
 
