@@ -3,7 +3,7 @@ names(elect)
 str(elect)
 attributes(elect)
 summary(elect)
-elect[elect["BushPct"]>50,"State"]
+elect[elect["BushPct"]>elect["KerryPct"],"State"]
 
 
 topmovies[grep("[0-9]+", topmovies$name, ignore.case=T),"name"]

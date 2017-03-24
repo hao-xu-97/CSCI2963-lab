@@ -22,3 +22,11 @@ He won 29 states out of 50
 * 79 sequels (I checked movies containing numbers)
 * 41 movies containing man
 * 6 star wars movies
+
+Last Week I have consolidated some ideas about my project and tried
+figure our potentially what features are feasible to include for this
+project given the time left in the semester. Mostly still trying
+to work on some design before I start to code so I wouldn't have
+to start over halfway through if the impromtu desgin wasn't suitable
+for the project.
+
